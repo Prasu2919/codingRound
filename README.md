@@ -27,3 +27,9 @@ Problem Statement
 2. Modularization & Abstraction
 3. Demonstration of OO concepts & Design Patterns
 4. Etiquette of Version control
+
+
+** Task Performed in the given project**
+1.Refactor the code and implement oops concept to increase code resusability & maintenance
+2.Implement reporting, in which i am using Extent Report (path=> user.dir/AutomationReport/..)
+3.Implement Page Object Model to increase modularization in project.

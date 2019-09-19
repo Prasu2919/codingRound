@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CodingRound">
+
+	<test name="Coding Round Assignment">
+	
+		<packages>
+            <package name="com.TestVegrant.testScripts"/>
+		</packages>
+<!-- 			<classes> -->
+<!-- 			<class name = "com.TestVegrant.testScripts.FlightBookingTest"/> -->
+<!-- 			<class name = "com.TestVegrant.testScripts.HotelBookingTest"/> -->
+<!-- 			<class name = "com.TestVegrant.testScripts.SignInTest"/> -->
+<!-- 			</classes> -->
+	</test>
+	
+	<listeners>
+		<listener class-name="com.TestVegrant.core.ExtentReporterNG" />
+	</listeners>
+</suite>
